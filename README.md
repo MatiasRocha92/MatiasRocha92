@@ -21,7 +21,6 @@
 - 🌱 I'm currently learning **DevOps, Cloud Services & Advanced Animations.**
 - 👯 I'm looking to collaborate on **Web Development & Open Source Projects.**
 - 💬 Ask Me About **React, Next.js, TypeScript, Node.js & GSAP!**
-- 😄 Pronouns : **He/Him.**
 - 📍 Location : **Argentina (Remote).**
 - ⚡ Fun fact : **I treat every project like a new level to conquer! 🎯**
 
