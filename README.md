@@ -139,10 +139,6 @@ Web app for discovering, saving, and sharing Argentine recipes. Built with perfo
 
 Collaborative project management tool with modern UI/UX.
 
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,js,tailwind,css" />
-</a>
-
 **Tech Stack:** HTML, CSS, JavaScript, Tailwind CSS
 
 🔗 [Live Demo](https://portfolio-desk-eight.vercel.app/) | [GitHub](https://github.com/MatiasRocha92)
