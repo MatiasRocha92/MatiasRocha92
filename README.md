@@ -141,7 +141,7 @@ Collaborative project management tool with modern UI/UX.
 
 **Tech Stack:** HTML, CSS, JavaScript, Tailwind CSS
 
-🔗 [Live Demo](https://portfolio-desk-eight.vercel.app/) | [GitHub](https://github.com/MatiasRocha92)
+🔗 [Live Demo](https://portfolio-mati092s-projects.vercel.app/) | [GitHub](https://github.com/MatiasRocha92)
 
 </td>
 <td width="50%">
