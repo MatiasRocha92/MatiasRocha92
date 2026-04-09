@@ -37,45 +37,6 @@
 
 <br/>
 
-
-## 🛠️ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂
-
-<br/>
-
-<h3 align="center">Frontend & Desing</h3>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,vite,astro" />
-  </a>
-</p>
-
-<h3 align="center">Backend & Database</h3>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,prisma,firebase" />
-  </a>
-</p>
-
-<h3 align="center">DevOps & Tools</h3>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,linux,vscode" />
-  </a>
-</p>
-
-<h3 align="center">Animation & Design</h3>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,ps" />
-  </a>
-</p>
-
-<br clear="left"/>
-
 #
 
 <details open="">
